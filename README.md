@@ -3,7 +3,7 @@ How to host a resume on GitHub
 
 Purpose
 ---
-This README file demonstrates the steps required to host and format an online resume in the *GitHub* repository. These steps consist of a light markup language, a text editor, and a static site generator. We will be using *Markdown*, *Atom*, and *Jekyll*. It also shows how to host on a DVCS (Distributed Version Control System), *GitHub*.
+This README file will demonstrate a quick tutorial on how to host a formatted resume as a static site generator on github using Markdown, Github and Jekyll by following some of the key principles of Andrew Etter's book [Modern Technical Writing] (https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 Prerequisites
 ---
@@ -43,14 +43,12 @@ Instructions
 	2. Go to pages.
 	3. Click on source to set the branch to main.
 	4. Click on save option.
-	5. Click on choose a theme which will navigate to a page having a wide range of themes. 
 	6. Choose your desired theme for your resume.
-	7. Click on select theme. 
-	8. Add a title in the commit box.
-	9. Click on commit changes button. 
-	10. Go to your repository.
-	11. Select the _config.yml file and *add title: Resume* to change the title.
-	12. Type https://username.github.io/ (your user name) to see the static website.
+	5. Add a title in the commit box.
+	6. Click on commit changes button. 
+	7. Go to your repository.
+	8. Select the _config.yml file and *add title: Resume* to change the title.
+	9. Type https://username.github.io/ (your user name) to see the static website.
 > This will make a static website for you. Andrew Etter mentioned in his book that using Jekyll as a static site generator makes the Markdown content attractive. You can see a cleaner static webiste from your markdown contents. He also stated that moving the entire website is simple too as it does not depend on any third party application or database.
 
 **Your final resume should look like this website.**\

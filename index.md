@@ -11,7 +11,7 @@ Github: [rahman-asifur](https://github.com/rahman-asifur)
 ---
 
 ## <span style="color: navy"> EDUCATION </span>
-### Bachelor of Computer Science Honours (Co-op Option) / Exp. Graduation: April 2023
+#### Bachelor of Computer Science Honours (Co-op Option) / Exp. Graduation: April 2023
 - Minor: Economics
     - University of Manitoba
 

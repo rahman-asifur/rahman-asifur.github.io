@@ -43,7 +43,6 @@ Instructions
 	2. Go to pages.
 	3. Click on source to set the branch to main.
 	4. Click on save option.
-	6. Choose your desired theme for your resume.
 	5. Add a title in the commit box.
 	6. Click on commit changes button. 
 	7. Go to your repository.

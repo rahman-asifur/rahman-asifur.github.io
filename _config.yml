@@ -23,6 +23,7 @@ title: Asifur Rahman
 url: "http://rahman-asifur.github.io"
 baseurl: "/"
 
+theme: jekyll-theme-dinky
 nav:
  - name: "Website"
    link: "/"

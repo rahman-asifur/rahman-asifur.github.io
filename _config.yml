@@ -23,15 +23,6 @@ title: Asifur Rahman
 url: "http://rahman-asifur.github.io"
 baseurl: "/"
 
-
-tracking_id: #
-
-footer: no
-
-sass:
-    style: compressed
-    sass_dir: _sass
-
 nav:
  - name: "Website"
    link: "/"

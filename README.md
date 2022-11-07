@@ -38,7 +38,12 @@ Instructions
 5. **Creating a Jekyll project for the repository**
     1. Click on **Open in Visual Studio Code** from GitHub Desktop.
 	2. Click on Terminal to check the file path is same when you clone your remote repository locally with GitHub Desktop.
+	![]()
 	3. Run the following command in the terminal which will create a Jekyll project with necessary files and folder.
+	```sh
+    jekyll new  . --force
+    ```
+	![]()
 
 5. **Add your files to your repository in Visual Studio Code.**
     1. Click on to create a file named index.md as this will be home page of the website.
@@ -52,10 +57,8 @@ Instructions
 	3. Write a comment to commit to main.
 	4. Click Push origin to upload the files in github.
 	
+**Your final resume should look like this website.**
 
-
-
-**Your final resume should look like this website.**\
 
 More resources
 ---

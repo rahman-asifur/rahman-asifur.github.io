@@ -21,16 +21,20 @@ Instructions
 3. **Create a repository on GitHub.**
 	1. Open the repositories section from your github profile.
 	2. Click on green colored button New to create a new repository.
+	![This is create repo Gif](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/new_repository.gif)
 	3. Name the repository as your username.github.io.
 	4. Make your repository public by selecting the public option.
 	5. Scroll down to check add a README file for now.
 	6. Scroll down to choose a licence.
 	7. Click on create repository. 
+	![New Repo](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/create_repository.png)
 4. **Setting up your reository locally with Github Desktop**
 	1. Go to to your **username.github.io**
 	2. Clink on the green button Code to copy the link of your repository
+	![Clone Repo](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/copy_repository.gif)
 	3. Open the Github desktop tool
 	4. Click on Add button and follow the process of the posted video below:
+	![Add repo on github desktop](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/clone_github.gif)
 5. **Creating a Jekyll project for the repository**
     1. Click on **Open in Visual Studio Code** from GitHub Desktop.
 	2. Click on Terminal to check the file path is same when you clone your remote repository locally with GitHub Desktop.

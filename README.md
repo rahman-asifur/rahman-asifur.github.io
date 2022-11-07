@@ -1,6 +1,7 @@
 How to host a resume on GitHub
 ===
 ### [Demo Website](http://rahman-asifur.github.io/) 
+    
 
 Purpose
 ---
@@ -43,7 +44,7 @@ Instructions
 	```sh
     jekyll new  . --force
     ```
-	![]()
+	![Jekyll execute](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/jekyll_command.png)
 
 5. **Add your files to your repository in Visual Studio Code.**
     1. Click on to create a file named index.md as this will be home page of the website.
@@ -51,14 +52,16 @@ Instructions
 	  - Markdown is used to format the resume as MarkDown is the best lightweight markup language.
         >Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It makes contribution very convenient. It is commonly used by developers.
 	3. Edit the _config.yml to setup the Jekyll theme of the website.
+	![Edit config file](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/edit_config.png)
 6. **Push your changes to the remote repository**
     1. Open GitHub Desktop
 	2. Select your repository to view all the changed files.
 	3. Write a comment to commit to main.
 	4. Click Push origin to upload the files in github.
+	![Push Change](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/push_change.gif)
 	
 **Your final resume should look like this website.**
-
+![Demo Resume]()
 
 More resources
 ---

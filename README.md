@@ -1,5 +1,6 @@
 How to host a resume on GitHub
 ===
+### [Demo Website](http://rahman-asifur.github.io/) 
 
 Purpose
 ---
@@ -14,23 +15,40 @@ Prerequisites
 
 Instructions
 ---
-1. **Create a GitHub account.**
+2. **Create a GitHub account.**
 	1. Click on Sign up button on [GitHub](https://github.com) if you do not have an account.
-	2. Follow the instructions on github to complete registering for an account.
-2. **Create a repository on GitHub.**
+	2. Follow the instructions on github to complete signup process.
+3. **Create a repository on GitHub.**
 	1. Open the repositories section from your github profile.
 	2. Click on green colored button New to create a new repository.
 	3. Name the repository as your username.github.io.
 	4. Make your repository public by selecting the public option.
-	5. Scroll down to uncheck add a README file for now.
+	5. Scroll down to check add a README file for now.
 	6. Scroll down to choose a licence.
 	7. Click on create repository. 
-3. **Add your files to your repository.**
-	1. Click on add a file.
-	2. Drop your markdown-formatted resume and a README, if you have one, on the drop box.
-	3. Add a title in the commit box.
-	4. Click on commit changes button. 
-> Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It makes contribution very convenient. It is commonly used by developers.
+4. **Setting up your reository locally with Github Desktop**
+	1. Go to to your **username.github.io**
+	2. Clink on the green button Code to copy the link of your repository
+	3. Open the Github desktop tool
+	4. Click on Add button and follow the process of the posted video below:
+5. **Creating a Jekyll project for the repository**
+    1. Click on **Open in Visual Studio Code** from GitHub Desktop.
+	2. Click on Terminal to check the file path is same when you clone your remote repository locally with GitHub Desktop.
+	3. Run the following command in the terminal which will create a Jekyll project with necessary files and folder.
+
+5. **Add your files to your repository in Visual Studio Code.**
+    1. Click on to create a file named index.md as this will be home page of the website.
+	2. Copy the content of your resume.md in index.md file.
+	  - Markdown is used to format the resume as MarkDown is the best lightweight markup language.
+        >Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It makes contribution very convenient. It is commonly used by developers.
+	3. Edit the _config.yml to setup the Jekyll theme of the website.
+6. **Push your changes to the remote repository**
+    1. Open GitHub Desktop
+	2. Select your repository to view all the changed files.
+	3. Write a comment to commit to main.
+	4. Click Push origin to upload the files in github.
+	
+
 
 
 **Your final resume should look like this website.**\

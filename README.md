@@ -39,7 +39,7 @@ Instructions
 5. **Creating a Jekyll project for the repository**
     1. Click on **Open in Visual Studio Code** from GitHub Desktop.
 	2. Click on Terminal to check the file path is same when you clone your remote repository locally with GitHub Desktop.
-	![]()
+	![path check](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/path_check.gif)
 	3. Run the following command in the terminal which will create a Jekyll project with necessary files and folder.
 	```sh
     jekyll new  . --force
@@ -61,7 +61,7 @@ Instructions
 	![Push Change](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/push_change.gif)
 	
 **Your final resume should look like this website.**
-![Demo Resume]()
+![Demo Resume](https://github.com/rahman-asifur/rahman-asifur.github.io/blob/main/images/resume_demo.gif)
 
 More resources
 ---
